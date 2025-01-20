@@ -1,0 +1,21 @@
+{
+  "sessionState": {
+    "intent": {
+      "name": "TranslateIntent",
+      "slots": {
+        "text": {
+          "value": {
+            "interpretedValue": "Hello",
+            "originalValue": "Hello"
+          }
+        },
+        "language": {
+          "value": {
+            "interpretedValue": "French",
+            "originalValue": "French"
+          }
+        }
+      }
+    }
+  }
+}
